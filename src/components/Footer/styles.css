@@ -1,0 +1,21 @@
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+  margin-top: 20px;
+  background-color: white;
+}
+
+footer p {
+  text-align: center;
+  font-size: 15pt;
+  font-style: italic;
+  color: #606060;
+}
+
+footer p a {
+  text-decoration: none;
+  font-style: italic;
+  color: #002999;
+}

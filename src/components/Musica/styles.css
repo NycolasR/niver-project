@@ -1,0 +1,25 @@
+div#div-music {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button#btn-music {
+  border: 3px solid #ed6187;
+  padding: 10px;
+  border-radius: 20px;
+  background-color: white;
+  color: #ed6187;
+  transition: all 0.7s;
+}
+
+button#btn-music h1 {
+  font-size: 16pt;
+  margin: 0;
+}
+
+button#btn-music:hover {
+  background-color: #ed6187;
+  color: white;
+  cursor: pointer;
+}
