@@ -14,7 +14,7 @@ class Musica extends Component {
     renderButtonAndSound = () => {
         return (
             <button id="btn-music" onClick={() => this.soundPlay(Music)}>
-                <h1>Oi! Eu sou um botão! Clique em mim!</h1>
+                <h1>Aumente o volume e clique em mim!</h1>
             </button>
         )
     }

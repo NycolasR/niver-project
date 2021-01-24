@@ -1,14 +1,14 @@
 import React from "react";
 
 import Header from "./components/Header";
-import Musica from "./components/Musica";
+import Carousel from "./components/Carousel";
 import Footer from "./components/Footer";
 
 function App() {
   return (
     <div className="App">
       <Header />
-      <Musica />
+      <Carousel />
       <Footer />
     </div>
   );

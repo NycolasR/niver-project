@@ -4,10 +4,16 @@ header {
   align-items: center;
 }
 
-header h1 {
+h1#main-title,
+div#apresentacao {
   background-color: rgb(255, 255, 255);
   padding: 10px;
   border-radius: 20px;
   border: 3px solid #ed6187;
   color: #ed6187;
+}
+
+div#apresentacao p {
+  font-size: large;
+  margin-bottom: 10px;
 }
