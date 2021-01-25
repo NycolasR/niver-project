@@ -13,7 +13,8 @@ div#apresentacao {
   color: #ed6187;
 }
 
-div#apresentacao p {
+div#apresentacao p.apresentacao-texto-paragrafo {
   font-size: large;
   margin-bottom: 10px;
+  text-indent: 25px;
 }

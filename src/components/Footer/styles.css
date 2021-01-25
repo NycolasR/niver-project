@@ -1,21 +1,29 @@
 footer {
-  display: flex;
-  justify-content: center;
-  align-items: center;
   border-radius: 20px;
   margin-top: 20px;
   margin-bottom: 30px;
   background-color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 footer p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   text-align: center;
   font-size: 15pt;
   font-style: italic;
   color: #606060;
 }
 
-footer p a {
+footer p#links {
+  margin-top: 5px;
+}
+
+footer p#links a {
+  margin-right: 10px;
+  margin-left: 10px;
   text-decoration: none;
   font-style: italic;
   color: #002999;
