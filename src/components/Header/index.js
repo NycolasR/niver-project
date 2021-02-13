@@ -21,7 +21,8 @@ const Header = () => (
                 Meu propósito é reunir mensagens de aniversário das pessoas mais próximas a você: o Sr. seu irmão obteve essas mensagens no
                 mês de janeiro deste ano; a maioria das pessoas que te escreveram nem sabiam para que as mensagens e fotos seriam usadas.. 
                 só sabiam que seria para alguma coisa e, para isso, precisavam escolher e mandar uma foto com uma mensagem.
-                Começe obedecendo o botão se encontra abaixo de mim e depois leia as mensagens. Quando terminar de ler cada mensagem, clique
+                Começe obedecendo o botão se encontra abaixo de mim (pode ser que ele demore a responder, então só clica e segue em frente..)
+                e depois leia as mensagens. Quando terminar de ler cada mensagem, clique
                 na seta do lado direito da tela para ler a próxima.
                 Feliz Aniversário!
             </p>
