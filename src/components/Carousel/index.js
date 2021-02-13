@@ -6,11 +6,42 @@ import Cartao from "../Cartao";
 import carolImg from '../../assets/img/carol.png';
 import jeskaImg from '../../assets/img/jeska.jpeg';
 import mayarImg from '../../assets/img/mayara.jpeg';
+import mainhaImg from '../../assets/img/mainha.jpeg';
+import juninhoImg from '../../assets/img/juninho.jpeg';
 
 import './styles.css';
 
 const Carrossel = () => (
     <Carousel itemsToShow={1}>
+        <Cartao foto={mainhaImg} emissor="Solange (Mainha)" mensagem={
+            <div>
+                <p>
+                🎀🎀Feliz aniversário filha, que Deus em sua infinita bondade esteja te abençoando nesta data tão sublime, rogo a Deus pela sua
+                vida e pela vida de MARIANA, que vcs sejam muito felizes , vc é uma pessoa de sorte faz aniversário e vai ser mãe no
+                mêsque Mariana chegue logo pra animar nossos dias, pq assim fazemos uma festa só 🎉🎉🎉, receba meu carinho e
+                meu abraço 🌹🌹🌹. Beijo no 💓💓💓🎀🎀
+                </p>
+                <p>
+                "Ensina a criança o caminho que deve andar e quando for velha não se desviará dele." Provérbios 22.6. 🌻
+                </p>
+            </div>
+        }/>
+
+        <Cartao foto={juninhoImg} emissor="Juninho" mensagem={
+            <div>
+                <p>
+                Parabéns meu amor!! ❤️ Hoje tem um significado mais especial e representa bem mais que celebrar um ano em sua vida...
+                isso porque nossa família está crescendo.
+                </p>
+                <p>
+                Desejo que seu dia seja maravilhoso, porque você merece tudo de bom na vida e toda felicidade do mundo. Você é uma esposa incrível e é por isso também que nosso amor fortalece a cada dia.
+                </p>
+                <p>
+                Obrigado por tudo e por tanto. Feliz aniversário! Te amo! ❤️
+                </p>
+            </div>
+        }/>
+
         <Cartao foto={carolImg} emissor="Carol" mensagem={
             <div>
                 <p>
