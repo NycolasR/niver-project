@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/niver-project/static/css/main.e178ab3f.chunk.css",
-    "main.js": "/niver-project/static/js/main.01dde68e.chunk.js",
-    "main.js.map": "/niver-project/static/js/main.01dde68e.chunk.js.map",
+    "main.js": "/niver-project/static/js/main.df6a3659.chunk.js",
+    "main.js.map": "/niver-project/static/js/main.df6a3659.chunk.js.map",
     "runtime-main.js": "/niver-project/static/js/runtime-main.e3357503.js",
     "runtime-main.js.map": "/niver-project/static/js/runtime-main.e3357503.js.map",
     "static/js/2.e1da3be1.chunk.js": "/niver-project/static/js/2.e1da3be1.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.e3357503.js",
     "static/js/2.e1da3be1.chunk.js",
     "static/css/main.e178ab3f.chunk.css",
-    "static/js/main.01dde68e.chunk.js"
+    "static/js/main.df6a3659.chunk.js"
   ]
 }
