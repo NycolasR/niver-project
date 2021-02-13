@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.e178ab3f.chunk.css",
-    "main.js": "/static/js/main.01dde68e.chunk.js",
-    "main.js.map": "/static/js/main.01dde68e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.02204a7e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.02204a7e.js.map",
-    "static/js/2.250c5756.chunk.js": "/static/js/2.250c5756.chunk.js",
-    "static/js/2.250c5756.chunk.js.map": "/static/js/2.250c5756.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.e178ab3f.chunk.css.map": "/static/css/main.e178ab3f.chunk.css.map",
-    "static/js/2.250c5756.chunk.js.LICENSE.txt": "/static/js/2.250c5756.chunk.js.LICENSE.txt",
-    "static/media/carol.e3babbf3.png": "/static/media/carol.e3babbf3.png",
-    "static/media/jeska.ed110851.jpeg": "/static/media/jeska.ed110851.jpeg",
-    "static/media/juninho.20b9f2ab.jpeg": "/static/media/juninho.20b9f2ab.jpeg",
-    "static/media/mainha.a83a2bc4.jpeg": "/static/media/mainha.a83a2bc4.jpeg",
-    "static/media/mayara.a04ba3dc.jpeg": "/static/media/mayara.a04ba3dc.jpeg",
-    "static/media/musica.8db756f0.wav": "/static/media/musica.8db756f0.wav"
+    "main.css": "/niver-project/static/css/main.e178ab3f.chunk.css",
+    "main.js": "/niver-project/static/js/main.01dde68e.chunk.js",
+    "main.js.map": "/niver-project/static/js/main.01dde68e.chunk.js.map",
+    "runtime-main.js": "/niver-project/static/js/runtime-main.e3357503.js",
+    "runtime-main.js.map": "/niver-project/static/js/runtime-main.e3357503.js.map",
+    "static/js/2.e1da3be1.chunk.js": "/niver-project/static/js/2.e1da3be1.chunk.js",
+    "static/js/2.e1da3be1.chunk.js.map": "/niver-project/static/js/2.e1da3be1.chunk.js.map",
+    "index.html": "/niver-project/index.html",
+    "static/css/main.e178ab3f.chunk.css.map": "/niver-project/static/css/main.e178ab3f.chunk.css.map",
+    "static/js/2.e1da3be1.chunk.js.LICENSE.txt": "/niver-project/static/js/2.e1da3be1.chunk.js.LICENSE.txt",
+    "static/media/carol.e3babbf3.png": "/niver-project/static/media/carol.e3babbf3.png",
+    "static/media/jeska.ed110851.jpeg": "/niver-project/static/media/jeska.ed110851.jpeg",
+    "static/media/juninho.20b9f2ab.jpeg": "/niver-project/static/media/juninho.20b9f2ab.jpeg",
+    "static/media/mainha.a83a2bc4.jpeg": "/niver-project/static/media/mainha.a83a2bc4.jpeg",
+    "static/media/mayara.a04ba3dc.jpeg": "/niver-project/static/media/mayara.a04ba3dc.jpeg",
+    "static/media/musica.8db756f0.wav": "/niver-project/static/media/musica.8db756f0.wav"
   },
   "entrypoints": [
-    "static/js/runtime-main.02204a7e.js",
-    "static/js/2.250c5756.chunk.js",
+    "static/js/runtime-main.e3357503.js",
+    "static/js/2.e1da3be1.chunk.js",
     "static/css/main.e178ab3f.chunk.css",
     "static/js/main.01dde68e.chunk.js"
   ]
